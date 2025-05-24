@@ -15,24 +15,25 @@ By combining visionary thinking with real-world execution, Ananta Cloud is not j
 ### 🚀 Our Core Services
 ---
 
+**At Ananta Cloud**, we offer a comprehensive suite of consulting services designed to accelerate your digital transformation journey. Our expert-driven solutions empower businesses to scale, innovate, and operate securely in today’s fast-paced tech landscape.
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; background-color: #f7f7f7; padding: 40px; border-radius: 10px; border: 1px solid #e1e1e1; margin: 20px 0;">
-  <div style="width: 30%; min-width: 280px; background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="color: #0d6efd;">Cloud Infrastructure Optimization</h4>
-    <p>Optimize your cloud costs and maximize the performance of your infrastructure. Tailored strategies to scale your cloud architecture with cost-effective solutions.</p>
-  </div>
+#### ☁️ **Cloud Computing**
+We help organizations design, migrate, and optimize cloud infrastructure across AWS, Azure, and Google Cloud. From strategy to implementation, we ensure high availability, scalability, and cost-efficiency.
 
-  <div style="width: 30%; min-width: 280px; background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="color: #0d6efd;">DevOps Automation</h4>
-    <p>Accelerate software delivery with CI/CD pipelines, infrastructure as code (IaC), and robust monitoring solutions for continuous integration and delivery.</p>
-  </div>
+#### ⚙️ **DevOps as a Service**
+Accelerate software delivery and infrastructure automation with our DevOps expertise. We build CI/CD pipelines, implement Infrastructure as Code (IaC), and integrate best-in-class tools to streamline your development lifecycle.
 
-  <div style="width: 30%; min-width: 280px; background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="color: #0d6efd;">Security & Compliance</h4>
-    <p>Ensure that your cloud infrastructure meets the highest standards of security and compliance with DevSecOps practices, vulnerability management, and data protection.</p>
-  </div>
-</div>
+#### 🔒 **Security**
+We embed security at every layer of your cloud and DevOps environment. Our services include cloud security assessments, compliance management, DevSecOps implementation, and incident response strategies.
 
+#### 💰 **FinOps (Cost Optimization)**
+Optimize your cloud spending with real-time visibility, usage analysis, and actionable insights. Our FinOps services align financial accountability with engineering efficiency to drive smarter cloud investments.
+
+#### 👨‍💻 **Talent on Lease**
+Quickly scale your technical teams with vetted, on-demand professionals. We provide skilled DevOps engineers, cloud architects, SREs, and security experts to meet your project goals without long-term hiring commitments.
+
+#### 🧩 **Site Reliability Engineering (SRE)**
+Ensure reliability, performance, and uptime with our SRE practices. We help you build robust monitoring, incident management, and operational automation to maintain service health at scale.
 
 ### 🌐 Why Choose Us?
 ---
