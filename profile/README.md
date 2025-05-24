@@ -1,8 +1,9 @@
-## Ananta Cloud
+### Ananta Cloud
 
 Welcome to the official GitHub repository of Ananta Cloud — your central hub for cutting-edge cloud solutions, comprehensive documentation, and source code in the areas of **Cloud Computing, DevOps, Security, FinOps, Artificial Intelligence and Talent on Lease**. Explore our repositories to discover tools and frameworks designed to accelerate your digital transformation journey.
 
 ### About Ananta Cloud
+
 **Ananta Cloud** is a technology leader driving innovation in cloud infrastructure, DevOps automation, and secure digital transformation. With a client-centric approach and deep technical expertise, we deliver scalable, resilient, and secure IT solutions that empower businesses to evolve with confidence.
 
 Our mission is to enable seamless cloud adoption, streamline DevOps workflows, and embed security at every stage of the software lifecycle. From strategy to execution, we partner with organizations to build future-ready ecosystems that foster agility, efficiency, and growth.
