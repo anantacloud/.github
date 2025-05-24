@@ -76,6 +76,5 @@ We believe in long-term partnerships. Here’s how you can stay connected with u
 - **LinkedIn:** [Your Organization](https://www.linkedin.com/company/anantacloud)
 - **GitHub:** [Our Repositories](https://github.com/anantacloud)
 
-<footer style="background-color: black; color: white; padding: 20px; text-align: center;">
-  <p>&copy; 2025 Ananta Cloud. All Rights Reserved.</p>
-</footer>
+
+**&copy; 2025 Ananta Cloud. All Rights Reserved.**
