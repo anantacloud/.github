@@ -33,6 +33,7 @@ By combining visionary thinking with real-world execution, Ananta Cloud is not j
 ---
 
 ### 🌐 Why Choose Us?
+---
 
 - **Expertise:** Decades of combined experience in cloud infrastructure and DevOps practices.
 - **Tailored Solutions:** Custom solutions that fit your unique business needs.
@@ -40,25 +41,20 @@ By combining visionary thinking with real-world execution, Ananta Cloud is not j
 - **Security-First:** DevSecOps approach for secure and compliant cloud architectures.
 - **Scalability:** We ensure your solutions are designed to scale with your business needs.
 
----
-
 ### 📬 Get In Touch
+---
 
 Ready to accelerate your digital transformation? We’re here to help!
 
 - **Email us:** [hello@anantacloud.com](mailto:hello@anantacloud.com)
 - **Visit our website:** [https://www.anantacloud.com](https://www.anantacloud.com)
 
----
-
 ### 📜 License
+---
 
 This repository is licensed under the [MIT License](LICENSE).
 
----
-
 ### ⚡ Let's collaborate and transform your cloud infrastructure today!
-
 ---
 
 <div style="background-color: #0d6efd; padding: 20px; text-align: center; color: white; border-radius: 8px; margin-top: 40px;">
@@ -67,16 +63,14 @@ This repository is licensed under the [MIT License](LICENSE).
   <a href="https://www.Anantacloud.com" style="color: white; background-color: #f1f1f1; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">Get Started Today</a>
 </div>
 
----
 
 ### 🌍 Stay Connected
+---
 
 We believe in long-term partnerships. Here’s how you can stay connected with us:
 
 - **LinkedIn:** [Your Organization](https://www.linkedin.com/company/anantacloud)
 - **GitHub:** [Our Repositories](https://github.com/anantacloud)
-
----
 
 <footer style="background-color: black; color: white; padding: 20px; text-align: center;">
   <p>&copy; 2025 Ananta Cloud. All Rights Reserved.</p>
