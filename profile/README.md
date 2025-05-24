@@ -10,9 +10,8 @@ Our mission is to enable seamless cloud adoption, streamline DevOps workflows, a
 
 By combining visionary thinking with real-world execution, Ananta Cloud is not just a service provider — we're a strategic partner in your journey toward operational excellence and digital resilience.
 
----
-
 ### 🚀 Our Core Services
+---
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; background-color: #f7f7f7; padding: 40px; border-radius: 10px; border: 1px solid #e1e1e1; margin: 20px 0;">
   <div style="width: 30%; min-width: 280px; background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
