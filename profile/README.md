@@ -73,8 +73,8 @@ This repository is licensed under the [MIT License](LICENSE).
 
 We believe in long-term partnerships. Here’s how you can stay connected with us:
 
-- **LinkedIn:** [Your Organization](https://www.linkedin.com/company/anantacloud)
-- **GitHub:** [Our Repositories](https://github.com/anantacloud)
+- **LinkedIn:** [Ananta Cloud](https://www.linkedin.com/company/anantacloud)
+- **GitHub:** [GitHub Repositories](https://github.com/anantacloud)
 
 
 **&copy; 2025 Ananta Cloud. All Rights Reserved.**
