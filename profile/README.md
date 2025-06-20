@@ -1,6 +1,7 @@
 # 👋 Welcome to AnantaCloud!
 
-![AnantaCloud Banner](https://anantacloud.com/wp-content/uploads/2023/08/anantacloud-logo.png)
+![image](https://github.com/user-attachments/assets/b29691f1-ed74-45e6-bf13-a1c40ad18b9d)
+
 
 ## 🚀 About Us
 
