@@ -1,6 +1,6 @@
 # 👋 Welcome to AnantaCloud!
 
-[![image](https://github.com/user-attachments/assets/b29691f1-ed74-45e6-bf13-a1c40ad18b9d)](https://www.canva.com/design/DAGrUjhJeDE/ixCLi4Vw0bnVjiGYZe7AGQ/watch?utm_content=DAGrUjhJeDE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f74928a44)
+![Dark Blue Abstract Technology LinkedIn Banner](https://github.com/user-attachments/assets/ff5a2676-dc33-474b-901d-2375135db48f)
 
 
 ## 🚀 About Us
