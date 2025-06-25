@@ -1,7 +1,4 @@
-# 👋 Welcome to AnantaCloud!
-
 ![Dark Blue Abstract Technology LinkedIn Banner](https://github.com/user-attachments/assets/ff5a2676-dc33-474b-901d-2375135db48f)
-
 
 ## 🚀 About Us
 
