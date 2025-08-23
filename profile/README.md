@@ -4,8 +4,6 @@
 
 With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, OpenStack, Oracle)** and a strong focus on DevOps, security, and automation, **Ananta Cloud** bridges the gap between technical complexity and business value. Our goal is to simplify your cloud adoption, optimize infrastructure for performance and cost, and empower your teams to innovate at scale.
 
----
-
 ## 💼 Our Services
 
 ### ☁️ Cloud Consulting & Migration
