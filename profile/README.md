@@ -6,11 +6,9 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
 
 ## 💼 Our Services
 
-## 💼 Our Services
-
 <table>
   <tr>
-    <td>
+    <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%;">
       <h3>☁️ Cloud Solutions</h3>
       <ul>
         <li>AWS / Azure / GCP</li>
@@ -18,26 +16,42 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
         <li>Cost optimization</li>
       </ul>
     </td>
-    <td>
+    <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%;">
       <h3>⚙️ DevOps & Automation</h3>
       <ul>
         <li>CI/CD pipelines</li>
-        <li>Terraform, Ansible</li>
-        <li>GitOps best practices</li>
+        <li>Terraform, Ansible, GitOps</li>
+        <li>Release automation</li>
       </ul>
     </td>
-    <td>
+    <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%;">
       <h3>📊 Monitoring & Logging</h3>
       <ul>
-        <li>Prometheus / Grafana / ELK</li>
-        <li>Alerting & dashboards</li>
+        <li>Prometheus, Grafana, ELK</li>
+        <li>Alerting and dashboards</li>
         <li>System health analytics</li>
       </ul>
     </td>
   </tr>
-</table>
-
-
+  <tr>
+    <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%; margin-top: 10px;">
+      <h3>🛠️ Infrastructure as Code</h3>
+      <ul>
+        <li>Terraform, CloudFormation</li>
+        <li>Version-controlled infra</li>
+        <li>Automated provisioning</li>
+      </ul>
+    </td>
+    <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%;">
+      <h3>🚀 CI/CD Services</h3>
+      <ul>
+        <li>GitHub Actions, Jenkins, GitLab CI</li>
+        <li>Automated testing & deployment</li>
+        <li>Rollback strategies</li>
+      </ul>
+    </td>
+    <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%;">
+      <h3>🔐 Security & Compliance</h3>
 
 ### ☁️ Cloud Consulting & Migration
 - Cloud strategy, assessment & readiness
