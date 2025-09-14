@@ -6,23 +6,37 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
 
 ## 💼 Our Services
 
-<h3>☁️ Cloud Solutions</h3>
-<ul>
-  <li>Deploy scalable, secure infrastructure</li>
-  <li>Expertise in AWS, Azure, GCP</li>
-</ul>
+## 💼 Our Services
 
-<h3>⚙️ DevOps & Automation</h3>
-<ul>
-  <li>CI/CD pipelines: GitHub Actions, GitLab CI, Jenkins</li>
-  <li>Infrastructure as Code: Terraform, CloudFormation</li>
-</ul>
+<table>
+  <tr>
+    <td>
+      <h3>☁️ Cloud Solutions</h3>
+      <ul>
+        <li>AWS / Azure / GCP</li>
+        <li>Cloud migration & architecture</li>
+        <li>Cost optimization</li>
+      </ul>
+    </td>
+    <td>
+      <h3>⚙️ DevOps & Automation</h3>
+      <ul>
+        <li>CI/CD pipelines</li>
+        <li>Terraform, Ansible</li>
+        <li>GitOps best practices</li>
+      </ul>
+    </td>
+    <td>
+      <h3>📊 Monitoring & Logging</h3>
+      <ul>
+        <li>Prometheus / Grafana / ELK</li>
+        <li>Alerting & dashboards</li>
+        <li>System health analytics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<h3>📊 Monitoring & Logging</h3>
-<ul>
-  <li>Tools: Prometheus, Grafana, ELK Stack</li>
-  <li>Real-time alerting & observability</li>
-</ul>
 
 
 ### ☁️ Cloud Consulting & Migration
