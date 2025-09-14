@@ -4,10 +4,8 @@
 
 With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, OpenStack, Oracle)** and a strong focus on DevOps, security, and automation, **Ananta Cloud** bridges the gap between technical complexity and business value. Our goal is to simplify your cloud adoption, optimize infrastructure for performance and cost, and empower your teams to innovate at scale.
 
-## 💼 Our Services
-
-## 💼 Our Services
-
+### 💼 What We Offer
+At Ananta Cloud, we provide end-to-end cloud, DevOps, DevSecOps, SRE, Platform Engineering, Cost Optimization and Talent on Lease services tailored to modern business needs:
 <table>
   <tr>
     <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%;">
@@ -64,7 +62,7 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
   </tr>
 </table>
 
-## 🌐 Why Choose AnantaCloud?
+### 🌐 Why Choose AnantaCloud?
 
 - **Certified Cloud Experts**: Our team holds top certifications across AWS, Azure, and GCP.
 - **Industry Experience**: Proven track record across healthcare, fintech, retail, and more.
@@ -73,7 +71,7 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
 
 ---
 
-## 📣 Get in Touch
+### 📣 Get in Touch
 
 - 🌍 [Website](https://anantacloud.com)
 - ✉️ [Contact Us](https://anantacloud.com/contact-us/)
