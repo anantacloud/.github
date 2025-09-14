@@ -1,4 +1,4 @@
-![Gradient Geometric Creative Agency LinkedIn Banner (1)](https://github.com/user-attachments/assets/c2bc68fb-c2a3-4dd5-88a9-f592174b4255)
+![White and Red Modern Business LinkedIn Article Cover Image](https://github.com/user-attachments/assets/7a96ceb3-7f16-41d2-962f-f8df71431cb1)
 
 **Ananta Cloud** is a leading cloud consulting and solutions provider, committed to accelerating your digital transformation journey. We help organizations of all sizes embrace the cloud with confidence — from startups building greenfield applications to enterprises modernizing legacy systems.
 
