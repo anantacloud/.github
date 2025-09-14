@@ -13,7 +13,8 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
     <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%;">
       <h3>☁️ Cloud Solutions</h3>
       <ul>
-        <li>AWS / Azure / GCP</li>
+        <li>AWS / Azure / GCP / Oracle / Digital Ocean</li>
+        <li>Cloud strategy, assessment & readiness</li>
         <li>Cloud migration & architecture</li>
         <li>Cost optimization</li>
       </ul>
@@ -39,7 +40,7 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
     <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%; margin-top: 10px;">
       <h3>🛠️ Infrastructure as Code</h3>
       <ul>
-        <li>Terraform, CloudFormation</li>
+        <li>Terraform, CloudFormation, OpenTofu</li>
         <li>Version-controlled infra</li>
         <li>Automated provisioning</li>
       </ul>
@@ -62,39 +63,6 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
     </td>
   </tr>
 </table>
-
-
-### ☁️ Cloud Consulting & Migration
-- Cloud strategy, assessment & readiness
-- End-to-end migration planning & execution
-- Multi-cloud & hybrid cloud expertise (AWS, Azure, GCP)
-
-### 🔒 Cloud Security & Compliance
-- Security architecture & best practices
-- Compliance assessments (SOC2, HIPAA, GDPR, PCI DSS)
-- Identity & access management
-
-### 🛠️ DevOps & Automation
-- CI/CD pipeline design & implementation
-- Infrastructure as Code (Terraform, CloudFormation)
-- Automated monitoring, scaling, and deployment
-
-### 🏗️ Cloud-Native Application Development
-- Microservices & serverless architectures
-- API development & integration
-- Modernization of legacy applications
-
-### 📊 Data Engineering & Analytics
-- Data lake & warehouse solutions
-- ETL pipelines & real-time analytics
-- Cloud-native data platforms
-
-### 🧑‍💻 Managed Cloud Services
-- 24/7 cloud monitoring & support
-- Cost optimization & resource governance
-- Proactive maintenance & incident response
-
----
 
 ## 🌐 Why Choose AnantaCloud?
 
