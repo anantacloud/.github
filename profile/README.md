@@ -69,5 +69,11 @@ At Ananta Cloud, we provide end-to-end cloud, DevOps, DevSecOps, SRE, Platform E
 - **Customer-Centric**: We tailor solutions that fit your unique business challenges.
 - **End-to-End Support**: From assessment to ongoing management, we’re with you every step.
 
+
 ---
+<div style="margin-top: 30px; font-size: 14px;">
+  📧 Email: <a href="mailto:hello@anantacloud.com" style="color: #007bff; text-decoration: none;">hello@anantacloud.com</a> &nbsp; | &nbsp;
+  🔗 LinkedIn: <a href="https://www.linkedin.com/company/anantacloud" target="_blank" style="color: #007bff; text-decoration: none;">linkedin.com/company/anantacloud</a> &nbsp; | &nbsp;
+  📅 Schedule a Meeting: <a href="[https://calendly.com/anantacloud/meeting](https://calendly.com/anantacloud/30min)" target="_blank" style="color: #007bff; text-decoration: none;">calendly.com/anantacloud/meeting</a>
+</div>
 
