@@ -6,6 +6,8 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
 
 ## 💼 Our Services
 
+## 💼 Our Services
+
 <table>
   <tr>
     <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%;">
@@ -52,6 +54,15 @@ With deep expertise across cloud platforms **(AWS, Azure, GCP, Digital Ocean, Op
     </td>
     <td style="background-color:#e6f4ff; padding:20px; border-radius:10px; vertical-align:top; width:33%;">
       <h3>🔐 Security & Compliance</h3>
+      <ul>
+        <li>IAM, Secrets Management</li>
+        <li>Cloud security best practices</li>
+        <li>Compliance (SOC2, ISO, etc.)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ### ☁️ Cloud Consulting & Migration
 - Cloud strategy, assessment & readiness
